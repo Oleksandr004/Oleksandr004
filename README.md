@@ -10,14 +10,9 @@ I'm a passionate frontend developer with a strong focus on creating responsive, 
 ## 🚀 Projects:
 - **E-commerce**: Full-featured online store with authentication, shopping cart, product filtering, and animations.
 - **ToDo App**: A task management app built with React, Redux, and TypeScript.
-- **Calculator**: A JavaScript calculator showcasing my understanding of DOM manipulation and logic.
+- **Adaptive multi-page websites**: Websites with the use of React/Next.js 
 
 ## 🎯 My Goals:
 - Continue improving my skills in full-stack development (Express.js, MongoDB).
 - Take on freelance opportunities to further enhance my practical experience.
 - Work towards becoming a senior developer with a strong understanding of both frontend and backend technologies.
-
-## 📫 Contact Me:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Telegram**: [@yourusername](https://t.me/yourusername)
