@@ -5,7 +5,7 @@ I'm a passionate frontend developer with a strong focus on creating responsive, 
 ## 💻 Technologies I Work With:
 - **Frontend**: React, Redux, React Router, React Hook Form, TypeScript, JavaScript (ES6+), CSS3, Flexbox, Grid, Animations
 - **Backend**: Node.js, Express.js, MongoDB, RESTful APIs
-- **Tools**: Git, GitHub, npm, Webpack, Vercel, Netlify
+- **Tools**: Git, GitHub, npm, Webpack, Vercel
 
 ## 🚀 Projects:
 - **E-commerce**: Full-featured online store with authentication, shopping cart, product filtering, and animations.
