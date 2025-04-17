@@ -1,6 +1,6 @@
 # Hi, I'm Oleksandr! 👋
 
-I'm a passionate frontend developer with a strong focus on creating responsive, interactive, and user-friendly web applications. I specialize in building dynamic and scalable applications using modern technologies such as React, Redux, and TypeScript. I’m always looking to expand my skills and take on new challenges.
+I'm a frontend developer with a strong focus on creating responsive, interactive, and user-friendly web applications. I specialize in building dynamic and scalable applications using modern technologies such as React, Redux, and TypeScript. I’m always looking to expand my skills and take on new challenges.
 
 ## 💻 Technologies I Work With:
 - **Frontend**: React, Redux, React Router, React Hook Form, TypeScript, JavaScript (ES6+), CSS3, Flexbox, Grid, Animations
