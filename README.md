@@ -1,4 +1,4 @@
-# Oleksandr (Sasha) — Fullstack / Frontend Developer
+# Fullstack / Frontend Developer
 
 In short: Fullstack developer, focusing on practical working solutions for e-commerce and business applications. I calmly bring the product from prototype to deployment: frontend (React / Next.js / TypeScript) → backend (NestJS / Express / MongoDB) → Docker → deployment. I work to clear deadlines, with documentation and launch instructions.
 
