@@ -1,39 +1,47 @@
-# Fullstack / Frontend Developer
+Oleksandr (Sasha) — Fullstack / Frontend Developer
 
-In short: Fullstack developer, focusing on practical working solutions for e-commerce and business applications. I calmly bring the product from prototype to deployment: frontend (React / Next.js / TypeScript) → backend (NestJS / Express / MongoDB) → Docker → deployment. I work to clear deadlines, with documentation and launch instructions.
+Pragmatic fullstack developer delivering working solutions for business and e-commerce applications. From frontend prototype to backend deployment — I turn ideas into production-ready products.
 
----
+🔎 About Me
 
-## 🔎 About me in brief
-- Name: **Oleksandr (Sasha)** — 18 years old, Ireland.
-- Experience: commercial freelance orders and independent projects in frontend and fullstack.
-- Approach: pragmatic, delivery-first — I value working results over theory.
+Name: Oleksandr (Sasha), 18 years old, Ireland (temporary protection).
 
----
+Profile: Fullstack developer with commercial freelance experience and independent projects.
 
-## 🛠 Technologies and stack (level: confident/practical)
-**Frontend**
-- React (including app-dir in Next.js), Next.js, TypeScript, Redux, Zustand, React Hook Form  
-- Responsive layout (Flexbox, Grid), Tailwind CSS, SCSS Modules, CSS animations, framer-motion
+Approach: Delivery-focused, pragmatic, deadline-oriented. I prioritize working solutions and clear documentation over theory.
 
-**Backend**
-- Node.js, Express.js, NestJS (controller–service–repository), MongoDB (Atlas), Prisma  
-- JWT, authorisation, CRUD, REST API, DTO/validation (Zod planned)
+🛠 Technologies & Stack
 
-**DevOps / Tools**
-- Docker, docker-compose, Git/GitHub, basic CI (planned — GitHub Actions), deployment (Vercel / Railway / Render)
+Frontend (confident/practical)
 
----
+React / Next.js (app-directory) — modern web applications
 
-## ✅ Completed projects (public/case studies)
-- **E-commerce (furniture store)** — Next.js + MongoDB + Redux + TypeScript + framer-motion. Implemented: registration/login, shopping cart, filtering, pagination, delivery options, responsiveness, animations. Deployed on Vercel.
-- **Dashboard for an office building** — visualisation of energy consumption, CO2, car charging, integration with external data.
-- **React Native — Route and destination generator** — MVP partially implemented, several stages paid for.  
-- **One-off freelance orders**: delivery calculator fix, layout + JSON backend, online store redesign.
+TypeScript, Redux, Zustand, React Hook Form — state management, form handling
 
+Responsive Layout: Flexbox, Grid, Tailwind CSS, SCSS Modules
 
-## 🚀 How I work / what the client gets
-- Clear time estimate and fixed price per task.  
-- 20–30% prepayment for large tasks.
-- Delivery: working release + launch instructions (README) + deployment instructions (if necessary).
-- Support: bug fix period after delivery (as agreed).
+Animations: CSS transitions, framer-motion
+
+UI Components: Radix UI, Recharts (charts/visualisations)
+
+Backend
+
+Node.js, Express.js, NestJS — structured backend (controller → service → repository)
+
+Databases: MongoDB (Atlas), PostgreSQL (via Prisma ORM)
+
+Authentication: JWT, role-based authorization
+
+APIs: REST API, CRUD operations, DTO/validation (Zod planned)
+
+Extras: Redis caching, queues (BullMQ), WebSocket real-time updates
+
+DevOps / Tools
+
+Docker, docker-compose
+
+Git / GitHub versioning
+
+CI/CD (basic GitHub Actions pipelines planned)
+
+Deployment: Vercel, Render, Railway
