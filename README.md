@@ -76,8 +76,41 @@
 **Технологии:**  
 - **Frontend:** React 19, TypeScript, Tailwind CSS 4, Material-UI, React Hook Form, Axios, GSAP, Vite  
 - **Backend:** Node.js + TypeScript, Express.js, MongoDB + Mongoose, JWT, bcryptjs, Nodemailer, Axios, CORS, cookie-parser  
+---
+
+### 🛡️ Uptime Sentinel — Fullstack Monitoring Platform
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?style=flat-square) ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react) ![NestJS](https://img.shields.io/badge/NestJS-11-E0234E?style=flat-square&logo=nestjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue?style=flat-square&logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis) ![Docker](https://img.shields.io/badge/Docker-24-blue?style=flat-square&logo=docker) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+
+**Описание:** полноценная система мониторинга доступности сайтов, API и сервисов в реальном времени с современным веб-интерфейсом, уведомлениями в Telegram и детальной аналитикой.
+
+**Основной функционал:**  
+- ⚡ Real-time мониторинг веб-сервисов через WebSocket  
+- 📊 Детальная аналитика: uptime %, response time, история инцидентов  
+- 📱 Telegram уведомления о падениях и восстановлении сервисов  
+- 🔐 Безопасная авторизация JWT (access + refresh)  
+- 🎨 Адаптивный и современный интерфейс  
+- 📦 Экспорт данных в CSV/PDF  
+- 🚀 Масштабируемая архитектура с BullMQ, Redis и PostgreSQL  
+
+**Технологии:**  
+- **Frontend:** Next.js 16, React 19, TypeScript, Tailwind, Framer Motion, Recharts, Radix UI, FSD (Feature-Sliced Design)  
+- **Backend:** NestJS 11, TypeScript, Prisma, PostgreSQL, Redis, BullMQ, JWT, WebSocket Gateway, Telegram Bot (Telegraf), Swagger  
+- **DevOps:** Docker, docker-compose, CI/CD (GitHub Actions), деплой на Vercel / Render / Railway  
+
+**Особенности архитектуры:**  
+- FSD структура: frontend — entities / features / widgets / shared  
+- Backend: auth / monitor / events / notify / prisma  
+- Реализованы очереди проверок, Telegram уведомления, JWT авторизация  
+- Полное покрытие тестами (unit + E2E, Jest, Vitest, Cypress)  
+
+**Преимущества для клиента:**  
+- Готовое production-ready решение для мониторинга  
+- Легко масштабируется и расширяется новыми сервисами  
+- Прозрачная документация и инструкции по деплою  
+
 
 ---
+
 
 ## 🚀 How I Work / What You Get
 - Чёткие оценки сроков и фиксированная цена  
